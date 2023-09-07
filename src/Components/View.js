@@ -78,7 +78,7 @@ function updateHandle (id){
     <>
      <div className="view_data">
 
-      <h1>View Data my App</h1>
+      <h1>View Data </h1>
       <ul>
         {data.map((item) => (
           <li key={item.id}>
